@@ -14,3 +14,6 @@ main_character
 
 bensound-creativeminds
 "Music: www.bensound.com"
+
+알파벳들
+<a href="https://pixabay.com/ko/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2077227">Pixabay</a>로부터 입수된 <a href="https://pixabay.com/ko/users/Gellinger-201217/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2077227">Gerhard Gellinger</a>님의 이미지 입니다.
